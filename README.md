@@ -85,4 +85,4 @@ streamlit run app.py
 
 ## License and Attribution
 
-This software is distributed under the MIT License. It remains free and open source to support the academic community. Any utilization, modification, or distribution of this codebase requires explicit attribution to the original creator, tandoancs github.
+This software is distributed under the MIT License. It remains free and open source to support the academic community. Any utilization, modification, or distribution of this codebase requires explicit attribution to the original creator, Thanh-Tan Doan (tandoan-python github).
